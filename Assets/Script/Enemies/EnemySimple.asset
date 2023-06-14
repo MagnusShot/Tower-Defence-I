@@ -16,4 +16,4 @@ MonoBehaviour:
   dmg: 1
   attaskSpeed: 1
   movementSpeed: 5
-  attackRange: 2.5
+  attackRange: 3
