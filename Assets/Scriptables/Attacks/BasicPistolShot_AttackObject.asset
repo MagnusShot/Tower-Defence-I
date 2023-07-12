@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a0255bd111de384ab592d24d11e72ca, type: 3}
+  m_Name: BasicPistolShot_AttackObject
+  m_EditorClassIdentifier: 
+  _maxBullets: 5
+  _maxCooldown: 0.2
+  _projectile: {fileID: 1934802931505518873, guid: 03ec934a9f7ca60468eac7042bdab055, type: 3}
+  _projectileSpeed: 100
+  _damageValues:
+    damage: 1
